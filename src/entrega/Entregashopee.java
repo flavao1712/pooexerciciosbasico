@@ -1,6 +1,6 @@
 package entrega;
 
-public class entregashopee {
+public class Entregashopee {
 String nome;
 String rua;
 String bairro;

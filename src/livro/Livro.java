@@ -1,6 +1,6 @@
 package livro;
 
-public class livro {
+public class Livro {
 String titulo;
 String capa;
 int quantidadeDePagina;

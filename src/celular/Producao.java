@@ -1,9 +1,9 @@
 package celular;
 
-public class producao {
+public class Producao {
     public static void main(String[] args) {
 
-        celular motorola = new celular();
+        Celular motorola = new Celular();
         motorola.marca = "Motorola";
         motorola.modelo = "Edge 60";
         motorola.cor = "Preta";

@@ -1,6 +1,6 @@
 package conta;
 
-public class conta {
+public class Conta {
 String nome;
 double id;
 int senha ;

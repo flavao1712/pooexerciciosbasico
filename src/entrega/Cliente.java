@@ -1,17 +1,17 @@
 package entrega;
 
-public class cliente {
+public class Cliente {
 
     public static void main(String[] args) {
 
-        entregashopee joao = new entregashopee();
+        Entregashopee joao = new Entregashopee();
         joao.nome = "João";
         joao.rua = "Jose Sebastião boarder";
         joao.bairro = "Sion";
         joao.numero = 145;
         joao.referencia ="Casa de esquina";
 
-        entregashopee maria = new entregashopee();
+        Entregashopee maria = new Entregashopee();
         maria.nome = "Maria";
         maria.rua = "Luís Pederiva";
         maria.bairro = "Parque boa vista";

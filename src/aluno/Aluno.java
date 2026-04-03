@@ -1,6 +1,6 @@
 package aluno;
 
-public class aluno {
+public class Aluno {
 String nome;
 Integer idade;
 String cor;

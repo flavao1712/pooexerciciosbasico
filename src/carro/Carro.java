@@ -1,6 +1,6 @@
 package carro;
 
-public class toyota {
+public class Carro {
 
     String modelo;
     String cor;

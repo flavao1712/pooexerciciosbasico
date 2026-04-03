@@ -1,15 +1,15 @@
 package aluno;
 
-public class escola {
+public class Escola {
     public static void main(String[] args) {
 
-        aluno felipe = new aluno();
+        Aluno felipe = new Aluno();
         felipe.nome = "Felipe";
         felipe.cor = "Branca";
         felipe.idade = 16;
         felipe.altura = 1.65;
 
-        aluno ana = new aluno();
+        Aluno ana = new Aluno();
         ana.nome = "Ana";
         ana.cor = "parda";
         ana.idade = 16;

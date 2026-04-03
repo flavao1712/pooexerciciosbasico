@@ -1,6 +1,6 @@
 package funcionario;
 
-public class funcionario {
+public class Funcionario {
 
     String nome;
     Integer id;

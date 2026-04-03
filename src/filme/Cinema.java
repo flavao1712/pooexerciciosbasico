@@ -1,15 +1,15 @@
 package filme;
 
-public class cinema {
+public class Cinema {
     public static void main(String[] args) {
 
-        filme destruicaoFinal = new filme();
+        Filme destruicaoFinal = new Filme();
         destruicaoFinal.nome = "Destruição Final 2";
         destruicaoFinal.genero = "Ação, Catástrofe";
         destruicaoFinal.lancamento = 2026;
         destruicaoFinal.produtora = "STX Entertainment";
 
-        filme terremoto = new filme();
+        Filme terremoto = new Filme();
         terremoto.nome = "Terremoto";
         terremoto.genero = "Ação, Catástrofe, Drama";
         terremoto.lancamento = 2018;

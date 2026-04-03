@@ -1,16 +1,16 @@
 package carro;
 
-public class tiposDeCarro {
+public class TiposDeCarro {
     public static void main(String[] args) {
 
-        toyota corolla = new toyota();
+        Carro corolla = new Carro();
         corolla.modelo = "Corolla";
         corolla.cor = "Branca";
         corolla.ano = 2026;
         corolla.motorizacao = "Hibrido";
 
 
-        toyota hiluxCabineDupla = new toyota();
+        Carro hiluxCabineDupla = new Carro();
         hiluxCabineDupla.modelo = "Hilux Cabine Dubla";
         hiluxCabineDupla.cor = "Preta";
         hiluxCabineDupla.ano = 2026;

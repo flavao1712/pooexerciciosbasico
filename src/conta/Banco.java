@@ -1,15 +1,15 @@
 package conta;
 
-public class banco {
+public class Banco {
     public static void main(String[] args) {
 
-        conta alberto = new conta();
+        Conta alberto = new Conta();
         alberto.nome = "Alberto";
         alberto.id = 15615615;
         alberto.senha = 159847;
         alberto.valor = 12;
 
-        conta roberta = new conta();
+        Conta roberta = new Conta();
         roberta.nome = "Roberta";
         roberta.id = 14578945;
         roberta.senha = 123456;

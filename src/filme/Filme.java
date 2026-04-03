@@ -1,6 +1,6 @@
 package filme;
 
-public class filme {
+public class Filme {
 
 
     String nome;

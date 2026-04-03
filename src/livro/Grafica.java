@@ -1,16 +1,16 @@
 package livro;
 
-public class grafica {
+public class Grafica {
     public static void main(String[] args) {
 
-        livro guerra = new livro();
+        Livro guerra = new Livro();
         guerra.titulo = "A arte da guerra";
         guerra.capa = "Capa dura";
         guerra.editora = "Garnier";
         guerra.quantidadeDePagina = 89;
 
 
-        livro mente  = new livro();
+        Livro mente  = new Livro();
         mente.titulo = "Mais Esperto que o Diabo";
         mente.capa = "Capa dura";
         mente.editora = "Citadel";

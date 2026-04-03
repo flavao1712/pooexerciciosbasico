@@ -1,6 +1,6 @@
 package celular;
 
-public class celular {
+public class Celular {
 String marca;
 String modelo;
 int memoria;

@@ -1,16 +1,16 @@
 package funcionario;
 
-public class empresa {
+public class Empresa {
     public static void main(String[] args) {
 
-        funcionario carlos = new funcionario();
+        Funcionario carlos = new Funcionario();
         carlos.nome = "Carlos";
         carlos.id = 1547;
         carlos.cracha = true;
         carlos.idade = 30;
 
 
-        funcionario fernanda = new funcionario();
+        Funcionario fernanda = new Funcionario();
         fernanda.nome = "Fernanda";
         fernanda.id = 7894;
         fernanda.cracha = true;

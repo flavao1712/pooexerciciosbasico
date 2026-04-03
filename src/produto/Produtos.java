@@ -1,6 +1,6 @@
 package produto;
 
-public class produtos {
+public class Produtos {
 
     String nome;
     String cor;
